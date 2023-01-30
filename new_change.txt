@@ -1,0 +1,1 @@
+i cloned new_repository from narasimharao22 github acccount and edit this repo in my local system now i want to push this changes init same repository
